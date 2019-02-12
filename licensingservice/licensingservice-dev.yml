@@ -1,4 +1,4 @@
-example.property: "I AM IN THE DEFAULT"
+example.property: "I AM IN THE DEV"
 spring.jpa.hibernate.ddl-auto: "update"
 spring.jpa.properties.hibernate.dialect: "org.hibernate.dialect.PostgreSQLDialect""
 spring.jpa.show-sql: "true"
